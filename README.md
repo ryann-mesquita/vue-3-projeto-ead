@@ -1,4 +1,4 @@
-# vue-3-ead
+# Projeto Curso Vue.js 3 EAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
